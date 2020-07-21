@@ -1,0 +1,22 @@
+body {
+	background-color: blanchedalmond;
+}
+
+h1 {
+	color: rgb(114, 54, 11);
+}
+h3 {
+	color: rgb(14, 88, 14);
+}
+
+button {
+	border-radius: 8px;
+	background-color: green;
+	padding: 5px;
+	color: white;
+}
+
+.flash {
+	color: red;
+	font-size: 1.5rem;
+}
